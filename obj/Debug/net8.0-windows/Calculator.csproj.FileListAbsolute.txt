@@ -18,3 +18,4 @@ C:\Users\Faisa\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\refin
 C:\Users\Faisa\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
 C:\Users\Faisa\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
 C:\Users\Faisa\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
+C:\Users\Faisa\source\repos\Calculator\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
