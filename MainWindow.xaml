@@ -6,6 +6,9 @@
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
         Title="MainWindow" Height="525" Width="325">
+
+  
+    
     
     <Grid Margin="10">
 
@@ -45,6 +48,8 @@
         
         
         <Button x:Name="divideButton" Content="/" Click="OperationButton_Click"
+                Background="{StaticResource opertatorsBackgroundColor}"
+                
 Grid.Row="1"
 Grid.Column="3"/>
         
@@ -62,7 +67,7 @@ Grid.Row="2"
 Grid.Column="2"/>
 
 
-        <Button x:Name="multiplyButton" Content="*"
+        <Button x:Name="multiplyButton" Content="*"  Background="{StaticResource opertatorsBackgroundColor}"
 Grid.Row="2"
 Grid.Column="3"/>
 
@@ -80,7 +85,7 @@ Grid.Column="1"/>
 Grid.Row="3"
 Grid.Column="2"/>
 
-        <Button x:Name="substractionButton" Content="-"
+        <Button x:Name="substractionButton" Content="-"  Background="{StaticResource opertatorsBackgroundColor}"
 Grid.Row="3"
 Grid.Column="3"/>
 
@@ -96,7 +101,7 @@ Grid.Column="1"/>
 Grid.Row="4"
 Grid.Column="2"/>
 
-        <Button x:Name="plusButton" Content="+" Click="OperationButton_Click"
+        <Button x:Name="plusButton" Content="+" Click="OperationButton_Click"  Background="{StaticResource opertatorsBackgroundColor}"
 Grid.Row="4"
 Grid.Column="3"/>
 
@@ -110,7 +115,7 @@ Grid.Column="0"
 Grid.Row="5"
 Grid.Column="2"/>
 
-        <Button x:Name="equalAssignButton" Content="="
+        <Button x:Name="equalAssignButton" Content="="  Background="{StaticResource opertatorsBackgroundColor}" 
 Grid.Row="5"
 Grid.Column="3"/>
     </Grid>
