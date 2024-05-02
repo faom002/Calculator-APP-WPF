@@ -13,6 +13,8 @@ This pertains to our two-sided project exam in web development, where we were ta
 ## Status
 Unfortunately, further development of this application is currently halted due to the culmination of exams.
 
+last update was today!
+
 ## GRADE
 A
 ==
