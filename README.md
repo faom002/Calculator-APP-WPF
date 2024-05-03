@@ -6,7 +6,7 @@ You can utilize this app within Visual Studio (2022).
 
 
 ## Description 
-This pertains to our two-sided project exam in web development, where we were tasked with creating a straightforward UI Calculator. The project involved utilizing languages like XAML and C#, along with the WPF plugin with the .NET framework being involved but used to the extreme.
+This pertains to our two-sided project hobby project from my professor in web development, where we were tasked with creating a straightforward UI Calculator. The project involved utilizing languages like XAML and C#, along with the WPF plugin with the .NET framework being involved but used to the extreme.
 
 ![alt text](https://github.com/faom002/Calculator-APP-WPF/blob/main/Capture.PNG)
 
@@ -15,6 +15,3 @@ Unfortunately, further development of this application is currently halted due t
 
 last update was today!
 
-## GRADE
-A
-==
